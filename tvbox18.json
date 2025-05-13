@@ -986,7 +986,7 @@
  {"key":"csp_XYQHiker_91pinse","name": "🔞91pinse(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tv/XYQHiker/91pinse.json","style": {"type": "rect","ratio": 1.6}},
  
  {"key":"csp_XYQHiker_av淘宝","name": "🔞av淘宝(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tv/XYQHiker/av淘宝.json","style": {"type": "rect","ratio": 1.6}},
- {"key":"csp_XYQHiker_taiav","name": "TaiAv🔞(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tv/XYQHiker/taiav.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_taiav","name": "TaiAv🔞(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jetchan001/yinshiyuan/refs/heads/main/tv/XYQHiker/taiav.json","style": {"type": "rect","ratio": 1.6}},
  
  {"key":"csp_XYQHiker_tw-av","name": "Tw-Av🔞没有自动播放，不能嗅探(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./tv/XYQHiker/tw-av.json","style": {"type": "rect","ratio": 1.6}},
  
