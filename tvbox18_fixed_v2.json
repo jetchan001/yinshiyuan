@@ -15,41 +15,41 @@
     "直播": [  
       {  
         "name": "Live Stream 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/live1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/live1"  
       },  
       {  
         "name": "Live Stream 2",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/live2"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/live2"  
       }  
     ],  
     "成人内容分类": [  
       {  
         "name": "Adult Content 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/adult1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/adult1"  
       }  
     ],  
     "动漫": [  
       {  
         "name": "Anime 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/anime1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/anime1"  
       }  
     ],  
     "吃瓜": [  
       {  
         "name": "News 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/news1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/news1"  
       }  
     ],  
     "API接口": [  
       {  
         "name": "API 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/api1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/api1"  
       }  
     ],  
     "解析器": [  
       {  
         "name": "Parser 1",  
-        "source": "http://ghproxy.com/raw.githubusercontent.com/example/parser1"  
+        "source": "https://ghfast.top/raw.githubusercontent.com/example/parser1"  
       }  
     ]  
   }  
